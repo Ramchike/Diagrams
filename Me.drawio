@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2024-02-02T20:23:50.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="psW32HPi5cJQjGXR4zcd" version="23.0.2" type="device">
+  <diagram name="Страница — 1" id="KFoE6bagsn_ufYOEnOEv">
+    <mxGraphModel dx="2514" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-1" target="QfGzjfTitUFlwN1ZFcqY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-1" target="QfGzjfTitUFlwN1ZFcqY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-1" value="&lt;font color=&quot;#fff5f5&quot;&gt;Я - Рамир&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="561" y="90" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-2" target="QfGzjfTitUFlwN1ZFcqY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-2" value="SOFT-Skills" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-33" target="QfGzjfTitUFlwN1ZFcqY-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+            <mxPoint x="701" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-3" target="QfGzjfTitUFlwN1ZFcqY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-3" target="QfGzjfTitUFlwN1ZFcqY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-3" value="HARD-Skills" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="710" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Элементы операционных систем" link="https://stepik.org/course/253/promo" id="QfGzjfTitUFlwN1ZFcqY-9">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="391" y="825" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-11" target="QfGzjfTitUFlwN1ZFcqY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-11" target="QfGzjfTitUFlwN1ZFcqY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-11" value="Общее устройство компьютера" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Вычислительные устройства" link="https://stepik.org/course/131544/promo" id="QfGzjfTitUFlwN1ZFcqY-13">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="621" y="825" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-15" value="Математика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-17" target="QfGzjfTitUFlwN1ZFcqY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-17" value="Принципы разработки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="KISS, DRY, YAGNI, SOLID" link="https://stepik.org/course/124764/promo" id="QfGzjfTitUFlwN1ZFcqY-21">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="941" y="850" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-23" target="QfGzjfTitUFlwN1ZFcqY-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-23" target="QfGzjfTitUFlwN1ZFcqY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-23" value="Английский язык" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-25" value="Технический английский" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-26" value="Бизнес английский" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QfGzjfTitUFlwN1ZFcqY-29" target="QfGzjfTitUFlwN1ZFcqY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-29" value="Managment" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="QfGzjfTitUFlwN1ZFcqY-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="380" as="sourcePoint" />
+            <mxPoint x="571" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfGzjfTitUFlwN1ZFcqY-33" value="DevOPS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
