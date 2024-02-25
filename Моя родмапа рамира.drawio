@@ -1,0 +1,185 @@
+<mxfile host="Electron" modified="2024-02-25T18:23:21.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="7ZvyU9iVw4OPrN2p0aja" version="23.0.2" type="device">
+  <diagram name="Страница — 1" id="jj9dkufl1gjbvcUhvB6v">
+    <mxGraphModel dx="4522" dy="2841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y2ftLjY100AA3jr2A82l-1" value="Я" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="-50" width="45" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-3" target="y2ftLjY100AA3jr2A82l-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200.00000000000045" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-3" value="Духовная Личность" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-4" target="y2ftLjY100AA3jr2A82l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-4" target="y2ftLjY100AA3jr2A82l-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-4" value="Характер" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=100;entryDy=0;entryPerimeter=0;shape=flexArrow;fillColor=#1D1C1C;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-1" target="y2ftLjY100AA3jr2A82l-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="150" as="sourcePoint" />
+            <mxPoint x="360" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-8" target="y2ftLjY100AA3jr2A82l-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-8" value="Положительные качества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-10" value="&lt;h1&gt;Положительные качества&lt;/h1&gt;&lt;p&gt;Качества, приносящие в первую очередь мне мгновенную или потенциальную пользу. Качества, которые помогают достичь лучшего результата, в сравнении с случаем, когда этих качеств не хватает, они не развиты или отстутствуют&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="209" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-8" target="y2ftLjY100AA3jr2A82l-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="700" as="sourcePoint" />
+            <mxPoint x="60" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-15" value="Физическое&lt;br&gt;тело" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=50.00000000000001;entryDy=0;entryPerimeter=0;shape=flexArrow;fillColor=#1D1C1C;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-1" target="y2ftLjY100AA3jr2A82l-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="611" y="10" as="sourcePoint" />
+            <mxPoint x="450" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=20;entryDy=80;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-3" target="y2ftLjY100AA3jr2A82l-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="270" y="210" as="sourcePoint" />
+            <mxPoint x="550" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-18" value="&lt;h1 style=&quot;border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-19" value="&lt;h1&gt;Все связано&lt;/h1&gt;&lt;p&gt;Душа и тело – это единое целое&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-20" target="y2ftLjY100AA3jr2A82l-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-20" value="Отрицательные&lt;br&gt;качества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-22" value="&lt;h1&gt;Отрицательные качества&lt;/h1&gt;&lt;p&gt;Качества, не позволяющие мне развиваться так, как я хочу. Такие качества препятствуют моим целям и мешают мне достичь поставленных целей. Убрать их можно только путем воли, дисциплины и мотивацией стать лучше.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="280" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-20" target="y2ftLjY100AA3jr2A82l-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="410" as="sourcePoint" />
+            <mxPoint x="90" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-20" target="y2ftLjY100AA3jr2A82l-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="600" as="sourcePoint" />
+            <mxPoint x="150" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-8" target="y2ftLjY100AA3jr2A82l-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="600" as="sourcePoint" />
+            <mxPoint x="200" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-26" value="Привычки" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-27" value="Положительные" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="210" height="180" as="geometry">
+            <mxRectangle x="380" y="530" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-28" value="Спокойствие" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-27">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-29" value="Решимость" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-27">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-30" value="Дисциплина" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-27">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-37" value="Вдумчивость" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-27">
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-38" value="Осознанность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-27">
+          <mxGeometry y="150" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-41" value="Отрицательные" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="530" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-42" value="Наивность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-41">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-43" value="Ветренность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-41">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-44" value="Невнимательность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-41">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-45" value="Оторван от реальности" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-41">
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-46" value="Безответственность" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="y2ftLjY100AA3jr2A82l-41">
+          <mxGeometry y="150" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-48" value="&lt;h1&gt;Смысл привычек&lt;/h1&gt;&lt;p&gt;Привычки помогают заставить себя делать когда-то сложные осозанные вещи уже неосознанно. Мы перестаем тратить много сил на то, что приносит нам пользу и делаем это на автоме - в этом сила привычек. С помощью привычек можно построить отдельные черты характера, воспитать в себе определенное качество или вовсе забыть о нем (убрать/удалить).&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="790" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-48" target="y2ftLjY100AA3jr2A82l-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="900" as="sourcePoint" />
+            <mxPoint x="100" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-51" value="&lt;b&gt;Мечтательность&lt;/b&gt;&lt;br&gt;Чрезмерная позитивность&lt;br&gt;Несерьезность&lt;br&gt;&lt;b&gt;&quot;Все будет хорошо, &lt;br&gt;если просто стараться&quot; (нет)&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="480" width="270" height="153.41" as="geometry" />
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-42" target="y2ftLjY100AA3jr2A82l-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="590" as="sourcePoint" />
+            <mxPoint x="-230" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.8;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-44" target="y2ftLjY100AA3jr2A82l-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="585" as="sourcePoint" />
+            <mxPoint x="-449" y="538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-45" target="y2ftLjY100AA3jr2A82l-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="645" as="sourcePoint" />
+            <mxPoint x="-484" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-30" target="y2ftLjY100AA3jr2A82l-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="620" as="sourcePoint" />
+            <mxPoint x="410" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2ftLjY100AA3jr2A82l-20" target="y2ftLjY100AA3jr2A82l-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="610" as="sourcePoint" />
+            <mxPoint x="270" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2ftLjY100AA3jr2A82l-64" value="&lt;h1 style=&quot;line-height: 120%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px; font-weight: normal;&quot;&gt;Можно изменять отрицательные качества на положительные, путем извлечения пользы из плохих.&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontStyle=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
